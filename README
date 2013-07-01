@@ -1,0 +1,2 @@
+This is a failed attempt at creating a platforming game. I got stuck creating pixel perfect collision detection between the platforms and the players and never continued it.
+It does have a pretty nice implementation of a quadtree though.
